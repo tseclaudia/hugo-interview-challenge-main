@@ -4,7 +4,8 @@ Navigate to the project directory and run `npm i` to install dependencies.
 
 Navigate to hugo-interview-challenge-main/api/prisma/ and run 'npx prisma generate'.
 
-Navigate back to the root project directory and run both the frontend and backend together, run `npm run start`.
+Navigate back to the root project directory. To run both the frontend and backend together, run `npm run start`. To run them independentlyl, use `npm run start:api` and
+`npm run start:client`.
 
 Go to your browser and navigate to http://localhost:5173/ where the frontend will be running.
 
